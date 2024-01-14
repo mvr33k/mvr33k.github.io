@@ -133,7 +133,7 @@ body {
 
 }
 #prod{
-  display: 'none';
+  display: none;
 }
 #prod-container {
   padding: 5%;
