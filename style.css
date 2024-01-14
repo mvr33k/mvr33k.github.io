@@ -32,7 +32,7 @@ body {
 
 /* elementy strony glownej  */
 #sg{
-  display: none;
+  display: block;
 }
 #header {
   padding: 5%;
@@ -133,7 +133,7 @@ body {
 
 }
 #prod{
-  display: '';
+  display: 'none';
 }
 #prod-container {
   padding: 5%;

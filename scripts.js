@@ -1,6 +1,6 @@
 window.onload = function () {
 
-    // podstawowa zmiana okienek 
+    //zmiana okienek 
     document.getElementById('sg-button').onclick = function () {
         document.getElementById('prod').style.display = 'none';
         document.getElementById('cont').style.display = 'none';
